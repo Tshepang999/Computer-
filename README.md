@@ -9,5 +9,3 @@
 1python
 2java
 3HTML
-
-Destribution
